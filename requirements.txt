@@ -1,2 +1,0 @@
-yahoofinancials==1.20
-yfinance==0.2.41
